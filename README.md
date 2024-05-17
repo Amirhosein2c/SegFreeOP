@@ -13,4 +13,5 @@ conda env create -f environment.yml
 
 ## Acknowledgement
 
-The code is heavily borrowed from (this)[https://github.com/cyxie601/ESCC_ML] repository.
+The code is heavily borrowed from [this](https://github.com/cyxie601/ESCC_ML) repository.
+
